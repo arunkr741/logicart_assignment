@@ -1,0 +1,17 @@
+.btnConatiner{
+    width: 234px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #65B6E0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btnText{
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+
+}

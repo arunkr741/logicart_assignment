@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  display: flex;
+  gap: 50px;
+}
+
+body{
+  background-color: black;
+  padding-left: 100px;
+  padding-top: 20px;
+}
