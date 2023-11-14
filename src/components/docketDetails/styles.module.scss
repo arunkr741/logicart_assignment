@@ -4,9 +4,21 @@ height: 460px;
 background: #FFF;
 padding-left: 20px;
 padding-top: 22px;
+position: relative;
 }
 .btnContainer{
     margin-top: 50px;
     display: flex;
     justify-content: center;
+}
+.closeIcon{
+    position: absolute;
+    right: 13px;
+    top: 8px;
+    cursor: pointer;
+}
+.crossIcon{
+    right: 3px;
+    position: absolute;
+    top: 4px;
 }

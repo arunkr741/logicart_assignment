@@ -3,7 +3,7 @@
     // height: 534px;
     background-color: white;
     padding-bottom: 16px;
-
+    position: relative;
 }
 .doughnutChartContainer{
     padding-top: 30px;
@@ -18,4 +18,15 @@
     width: 480px;
     padding-left: 16px;
     // margin-bottom: 110px;
+}
+.closeIcon{
+    position: absolute;
+    right: 13px;
+    top: 8px;
+    cursor: pointer;
+}
+.crossIcon{
+    right: 3px;
+    position: absolute;
+    top: 4px;
 }
